@@ -19,7 +19,7 @@ public class ConsoleReadAndWriteInFile {
         String message = scanner.nextLine();
         b_write.write(message);
 
-        System.out.println("File Created and Message Writter!");
+        System.out.println("File Created and Message Writer!");
 
         b_write.close();
         f_write.close();
